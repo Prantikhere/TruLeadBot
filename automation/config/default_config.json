@@ -1,0 +1,36 @@
+{
+    "database": {
+        "path": "/home/ubuntu/lead_generation/database/leads.db"
+    },
+    "web_scraping": {
+        "enabled": true,
+        "target_industries": [
+            "digital_marketing",
+            "saas_companies",
+            "enterprise_it",
+            "smes",
+            "service_businesses"
+        ],
+        "leads_per_industry": 50,
+        "enrich_data": true
+    },
+    "linkedin_automation": {
+        "enabled": true,
+        "connection_limit_per_day": 25,
+        "message_limit_per_day": 20,
+        "profile_finder_enabled": true,
+        "profile_finder_limit": 50
+    },
+    "email_outreach": {
+        "enabled": true,
+        "emails_per_day": 50,
+        "follow_up_days": 3,
+        "max_follow_ups": 2
+    },
+    "scheduling": {
+        "web_scraping_frequency": "weekly",
+        "linkedin_frequency": "daily",
+        "email_frequency": "daily",
+        "database_backup_frequency": "daily"
+    }
+}

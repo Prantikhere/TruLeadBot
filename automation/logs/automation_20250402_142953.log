@@ -1,0 +1,10 @@
+2025-04-02 14:29:53,775 - lead_generation - INFO - Lead generation automation started at 2025-04-02 14:29:53
+2025-04-02 14:29:53,775 - lead_generation - INFO - Log file: /home/ubuntu/lead_generation/automation/logs/automation_20250402_142953.log
+2025-04-02 14:29:53,775 - lead_generation - INFO - Using default configuration
+2025-04-02 14:29:53,775 - lead_generation - INFO - Saved default configuration to /home/ubuntu/lead_generation/automation/config/default_config.json
+2025-04-02 14:29:53,776 - lead_generation - INFO - Created directory: /home/ubuntu/lead_generation/automation/logs
+2025-04-02 14:29:53,776 - lead_generation - INFO - Created directory: /home/ubuntu/lead_generation/automation/config
+2025-04-02 14:29:53,776 - lead_generation - INFO - Created directory: /home/ubuntu/lead_generation/automation/reports
+2025-04-02 14:29:53,776 - lead_generation - INFO - Created directory: /home/ubuntu/lead_generation/automation/backups
+2025-04-02 14:29:53,776 - lead_generation - INFO - Created directory: /home/ubuntu/lead_generation/data
+2025-04-02 14:29:53,776 - lead_generation - INFO - Created directory: /home/ubuntu/lead_generation/database/backups
